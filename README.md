@@ -1,9 +1,10 @@
-### Hi there 👋, my name is Thomas!
+# Hi there 👋, my name is Thomas!
 
 I am Economics Student and Data Scientist!
 I really enjoy making projects of data science and machine learning. I want to keep learning lenguages and frameworks related to data.
 
-## Skills: Python | SQL | Linux | R | PowerBI | Git | Tableau
+## Skills: 
+### Python | SQL | Linux | R | PowerBI | Git | Tableau
 
 - 🔭 I’m currently working on Data Science and Data Engineering projects 
 - 🌱 I’m currently learning more about Linux and SQL 
