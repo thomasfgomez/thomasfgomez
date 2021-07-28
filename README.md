@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Thomas!
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am Economics Student and Data Scientist!
 I really enjoy making projects of data science and machine learning. I want to keep learning lenguages and frameworks related to data.
