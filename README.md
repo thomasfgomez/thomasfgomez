@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**thomasfgomez/thomasfgomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hola, I'm Thomas Gomez 👋
 
 - 🔭 I’m currently working on personal projects on Data Science and Machine Learning.
 - 🌱 I’m currently learning SQL, Linux and Power BI.
