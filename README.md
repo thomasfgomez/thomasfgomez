@@ -9,7 +9,7 @@ I really enjoy making projects of data science and machine learning. I want to k
 - 🔭 I’m currently working on Data Science and Data Engineering projects 
 - 🌱 I’m currently learning more about Linux and SQL 
 - 👯 I’m looking to collaborate on Data Science projects related to medical problems  
-- 📫 How to reach me: [LinkedIn - Thomas Gomez](https://www.linkedin.com/in/thomasfgomez/) 
+- 📫 How to reach me: [LinkedIn - Thomas Gomez](https://www.linkedin.com/in/thomasfgomez/) [Discord - Thomas Gomez](https://discord.com/channels/@me)
 - ⚡ Fun fact: I'm passionate about finance, technology and sports. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfgomez)](https://github.com/anuraghazra/github-readme-stats)
