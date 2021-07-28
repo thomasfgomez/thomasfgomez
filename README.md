@@ -11,11 +11,6 @@ Skills: Python | SQL | Linux | R | PowerBI | Git | Tableau
 - 📫 How to reach me: [LinkedIn - Thomas Gomez](https://www.linkedin.com/in/thomasfgomez/) 
 - ⚡ Fun fact: I'm passionate about finance, technology and sports. 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16541896)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfgomez)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasfgomez&show_icons=true)  
