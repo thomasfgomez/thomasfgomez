@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Thomas!
 
-I'm a Economics Student and Data Scientist from Argentina <img src="https://image.flaticon.com/icons/png/512/330/330487.png" width="13"/>!
+I'm a Economics Student and Data Scientist from Argentina 🇦🇷 <img src="https://image.flaticon.com/icons/png/512/330/330487.png" width="13"/>!
 I really enjoy making projects of Data Science, Machine Learning and Big Data. I'm always looking for new challenges and experiences to improve my technical skills. My goal is keep learning lenguages and frameworks related to data. 
 What I don't know... I can learn it!!! 🚀
 
