@@ -21,5 +21,4 @@ What I don't know... I can learn it!!! 🚀
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasfgomez&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=thomasfgomez)  
 
