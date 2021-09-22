@@ -9,7 +9,7 @@ My goal is keep learning lenguages and frameworks related to data.
 What I don't know... I can learn it!!! 🚀
 
 ## Skills: 
-### Python | SQL | Linux | R | PowerBI | Git | Tableau | Spark | Apache | Docker 
+### Python | SQL | Linux | R | PowerBI | Git | Tableau | Docker 
 
 - 🔭 I’m currently working on Data Science and Data Engineering projects 
 - 🌱 I’m currently learning more about Linux and SQL 
